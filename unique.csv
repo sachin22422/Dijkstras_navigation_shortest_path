@@ -1,0 +1,69 @@
+Source,Destination,Distance
+Karnataka,Andhra Pradesh,436
+Karnataka,Goa,170
+Karnataka,Kerala,500
+Karnataka,Telangana,423
+Karnataka,Tamil Nadu,564
+Karnataka,Maharashtra,493
+Delhi,Haryana,120
+Delhi,Uttar Pradesh,416
+Haryana,Uttarakhand,305
+Haryana,Punjab,242
+Haryana,Rajasthan,291
+Haryana,Uttar Pradesh,536
+Haryana,Himachal Pradesh,250
+Manipur,Mizoram,193
+Manipur,Nagaland,178
+Manipur,Assam,196
+Odisha,Jharkhand,296
+Odisha,Chhattisgarh,337
+Odisha,Andhra Pradesh,795
+Odisha,West Bengal,363
+Andhra Pradesh,Telangana,146
+Andhra Pradesh,Tamil Nadu,544
+Andhra Pradesh,Chhattisgarh,637
+Jammu and Kashmir,Punjab,314
+Jammu and Kashmir,Himachal Pradesh,302
+Jammu and Kashmir,Ladakh,168
+Arunachal Pradesh,Assam,120
+Arunachal Pradesh,Nagaland,140
+Uttarakhand,Uttar Pradesh,404
+Uttarakhand,Himachal Pradesh,211
+Jharkhand,Chhattisgarh,436
+Jharkhand,Bihar,165
+Jharkhand,West Bengal,271
+Jharkhand,Uttar Pradesh,565
+Punjab,Himachal Pradesh,174
+Punjab,Rajasthan,471
+Tripura,Mizoram,129
+Tripura,Assam,268
+Lakshadweep,Kerala,397
+Gujarat,Madhya Pradesh,724
+Gujarat,Dadra and Nagar Haveli and Daman and Diu,298
+Gujarat,Rajasthan,611
+Gujarat,Maharashtra,545
+Goa,Maharashtra,522
+Ladakh,Himachal Pradesh,370
+Maharashtra,Chhattisgarh,662
+Maharashtra,Madhya Pradesh,497
+Maharashtra,Dadra and Nagar Haveli and Daman and Diu,285
+Maharashtra,Telangana,470
+Rajasthan,Uttar Pradesh,667
+Rajasthan,Madhya Pradesh,543
+Meghalaya,Assam,177
+Uttar Pradesh,Bihar,477
+Uttar Pradesh,Madhya Pradesh,456
+Uttar Pradesh,Chhattisgarh,626
+Chhattisgarh,Madhya Pradesh,466
+Chhattisgarh,West Bengal,645
+Chhattisgarh,Telangana,539
+Nagaland,Mizoram,371
+Nagaland,Assam,162
+Bihar,West Bengal,348
+Mizoram,Assam,337
+Assam,West Bengal,625
+Puducherry,Tamil Nadu,154
+Puducherry,Andaman and Nicobar Islands,1398
+Sikkim,West Bengal,511
+Kerala,Tamil Nadu,262
+Andaman and Nicobar Islands,Tamil Nadu,1527
